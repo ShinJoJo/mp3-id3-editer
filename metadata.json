@@ -1,0 +1,6 @@
+{
+  "name": "MP3 ID3 Editer",
+  "description": "Professional MP3 ID3 v2.3 metadata, cover art, synchronized lyrics editor and audio spectrum player (v1.0).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
